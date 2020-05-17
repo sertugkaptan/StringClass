@@ -1,0 +1,10 @@
+﻿  Cstring.cpp
+D:\C projects\Project\Cstring.cpp(557): warning C4715: 'Cstring::operator<': not all control paths return a value
+D:\C projects\Project\Cstring.cpp(568): warning C4715: 'Cstring::operator<': not all control paths return a value
+D:\C projects\Project\Cstring.cpp(579): warning C4715: 'Cstring::operator<=': not all control paths return a value
+D:\C projects\Project\Cstring.cpp(590): warning C4715: 'Cstring::operator<=': not all control paths return a value
+D:\C projects\Project\Cstring.cpp(601): warning C4715: 'Cstring::operator>=': not all control paths return a value
+D:\C projects\Project\Cstring.cpp(612): warning C4715: 'Cstring::operator>=': not all control paths return a value
+D:\C projects\Project\Cstring.cpp(624): warning C4715: 'Cstring::operator>': not all control paths return a value
+D:\C projects\Project\Cstring.cpp(636): warning C4715: 'Cstring::operator>': not all control paths return a value
+  Project.vcxproj -> D:\C projects\Project\Debug\Project.exe
